@@ -1,0 +1,17 @@
+h1{
+	color: #d78a21;
+	background-color: #413a31;
+	font-size: 300%;
+	text-align: center;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%
+	font-family: sans-serif;
+}
+p{
+	font-variant: small-caps;
+	font-size: 120%;
+	font-family: sans-serif;
+	text-align: left;
+}
